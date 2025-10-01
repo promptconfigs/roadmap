@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Start a Discussion
+    url: https://github.com/yourorg/feedback/discussions
+    about: For feature ideas, Q&A, or open-ended topics, please use Discussions.
+  - name: 🔒 Security Reports
+    url: https://github.com/yourorg/feedback/security
+    about: Please see SECURITY.md for how to report security vulnerabilities.
